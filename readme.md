@@ -2,6 +2,14 @@
 
 Soy **Paloma Bayón Spinadel**. Estudio Ingeniería en Sistemas en la UTN.
 
+## Sobre mí
+- Tengo 19 años
+- Nací en España y vivo en Argentina desde los tres años
+- Soy una persona muy artística
+- Hago teatro hace tres años
+- Disfruto mucho de escribir y leer
+  
+## Sobre mis estudios
 Este año me anoté a las siguientes materias:
 - Paradigmas de Programación
 - Análisis Matemático 2
